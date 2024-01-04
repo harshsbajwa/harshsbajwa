@@ -1,3 +1,8 @@
+my name is harsh. i am an undergraduate at the university of toronto, studying computer science.  
+
+this is my github. take a look around and explore, see what exists (and what doesn't).
+
+
 ### Passage, Aimé Césaire
 
 It is the obligatory passage that from here I reject  
@@ -17,9 +22,3 @@ to keep
 the intact  
 to keep the living  
 &emsp;&emsp;&emsp;&nbsp;magma of the word stronger for its silences
-
-
-
-my name is harsh. i am an undergraduate at the university of toronto, studying computer science.  
-
-this is my github. take a look around and explore, see what exists (and what doesn't).
