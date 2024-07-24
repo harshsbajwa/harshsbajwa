@@ -8,6 +8,4 @@ this is my github. take a look around and explore, see what exists (and what doe
 
 or just take a look at what i last listened to.
 
-<p align="center">
-  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bajwah&bg_color=000000&header_style=compact&count=10)
-</p>
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bajwah&bg_color=000000&header_style=compact&count=10&width=1000)
