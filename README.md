@@ -1,24 +1,9 @@
-my name is harsh. i am an undergraduate at the university of toronto, studying computer science.  
+hey, my name is harsh. i'm an undergraduate at the university of toronto, studying computer science.  
+
+i'm interested in everything human, so, naturally, i'm interested in design, accessibility, and human–computer interaction.
+
+besides that, i cannot get enough of art, history, math and philosophy.
 
 this is my github. take a look around and explore, see what exists (and what doesn't).
 
-
-### Passage, Aimé Césaire
-
-It is the obligatory passage that from here I reject  
-a final listing  
-a rumination of ebb tides  
-the inventory as well of the length of droughts  
-on the flaccid teats of the pitons.  
-
-sufficiently attested by the very configuration of the miracle  
-the irrecusable slope of vomit  
-
-cirques and creeks  
-ultimate synthesis of corridors and sills  
-I know that I am responsible  
-for the impatience of a springtime of mistaken tracks  
-to keep  
-the intact  
-to keep the living  
-&emsp;&emsp;&emsp;&nbsp;magma of the word stronger for its silences
+![currently listening to](https://lastfm-profile-readme.vercel.app/api/bajwah?displayName=false)
