@@ -5,7 +5,3 @@ i'm interested in everything human, so, naturally, i'm interested in design, acc
 besides that, i cannot get enough of art, history, math and philosophy.
 
 this is my github. take a look around and explore, see what exists (and what doesn't).
-
-or just take a look at what i last listened to.
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bajwah&bg_color=000000&header_style=compact&count=10&width=1000)
