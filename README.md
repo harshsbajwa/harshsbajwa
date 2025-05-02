@@ -1,4 +1,4 @@
-hey, my name is harsh. i'm an undergraduate at the university of toronto, studying computer science.  
+hey, my name is harsh.
 
 i'm interested in everything human, so, naturally, i'm interested in design, accessibility, and human–computer interaction.
 
